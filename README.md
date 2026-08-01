@@ -7,7 +7,7 @@ An exploratory analysis of women-led YouTube podcasts, examining reach, audience
 
 This project analyzes public YouTube performance data from women-led podcasts to explore how episode format, topic, duration, titles, and publishing patterns relate to audience reach and interaction.
 
-The project was designed as a small monitoring, evaluation, and impact analysis exercise focused on translating digital engagement data into understandable findings and practical recommendations.
+It was designed as a small monitoring and evaluation analysis exercise focused on translating digital engagement data into understandable findings and practical recommendations.
 
 ## Interactive Report
 
